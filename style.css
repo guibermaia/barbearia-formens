@@ -159,11 +159,6 @@ footer .logo {
 }
 
 
-@viewport {
-    width: device-width;
-    zoom: 1.0;
-}
-
 @media screen and (max-width: 768px) {
 
     .who-is .img-barber-man, .img-barber {
